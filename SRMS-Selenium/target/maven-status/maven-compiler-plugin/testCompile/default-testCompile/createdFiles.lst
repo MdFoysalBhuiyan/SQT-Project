@@ -1,0 +1,10 @@
+com\srms\AddStudentPageTest.class
+com\srms\LoginTest.class
+com\srms\SearchStudentTest.class
+com\srms\LogoutTest.class
+com\srms\InvalidLoginTest.class
+com\srms\AddStudentTest.class
+com\srms\AddResultPageTest.class
+com\srms\CreateSubjectPageTest.class
+com\srms\ChangePasswordPageTest.class
+com\srms\DashboardTest.class
